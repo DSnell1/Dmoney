@@ -1,0 +1,6 @@
+git init
+git --Dmoney
+git add Carmelswirls
+git commit -m
+git remote https://github.com/DSnell1/Dmoney.git
+git push -u origin master
